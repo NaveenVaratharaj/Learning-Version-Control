@@ -1,1 +1,1 @@
-Git is used for version control using some commands
+Github is used for version control using some commands
